@@ -1,0 +1,21 @@
+İlk olarak, 7'yi kök olarak ekleyin.
+Sonra, 5'i 7'nin sol çocuğu olarak ekleyin.
+1'i 5'in sol çocuğu olarak ekleyin.
+8'i 7'nin sağ çocuğu olarak ekleyin.
+3'ü 1'in sol çocuğu olarak ekleyin.
+6'yı 5'in sağ çocuğu olarak ekleyin.
+0'ı 3'ün sol çocuğu olarak ekleyin.
+9'u 8'in sağ çocuğu olarak ekleyin.
+4'ü 3'ün sol çocuğu olarak ekleyin.
+2'yi 1'in sol çocuğu olarak ekleyin.
+
+
+      7
+     / \
+    5   8
+   / \   \
+  1   6   9
+ / \    
+0   3  
+    / \
+   2   4
